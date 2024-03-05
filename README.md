@@ -1,16 +1,13 @@
 # FileManager
-For modify many files and folders at once
+다수의 파일들과 폴더들을 손쉽게 한번에 수정하고 정리하기 위함을 목표로 한다.<br>
 
-# MoveSelfDir
-사용 : MoveSelfDir_fDir [path] <br>
-자신의 폴더명으로 폴더를 생성하고 그 안으로 이동한다. <br>
+<h2>MoveSelfDir</h2>
+forDir : 자신의 폴더명으로 폴더를 생성하고 그 안으로 이동한다. <br>
 폴더명을 랜덤으로 변경하기 전 그 폴더명을 기억하기 위해 사용한다. <br>
+<br>
+forFile : 자신의 파일명으로 폴더를 생성하고 그 안으로 이동한다. <br>
+각 파일을 폴더명으로 정리하거나, 윈도우의 폴더와 파일을 분류하는 기능을 원하지 않아 파일들을 폴더로 변경시키기 위해 사용한다. <br>
 
-사용 : MoveSelfDir_fFile [path] <br>
-자신의 파일명으로 폴더를 생성하고 그 안으로 이동한다. <br>
-파일과 폴더를 분류하지 않고 정리하기 위해 폴더로 일관되게 변경시키려고 사용했다. <br>
-
-# RandomDirName
-사용 : RandomDirName [path] [random_string_length] <br>
-해당 폴더 내에 있는 모든 폴더명을 random_string_length 길이의 랜덤 문자열로 변경해준다.<br>
+<h2>RandomDirName</h2>
+해당 폴더 내에 있는 모든 폴더명을 입력한 길이의 랜덤 문자열로 변경해준다.<br><br>
 왜 만들었는지는 비밀이다. <br>
