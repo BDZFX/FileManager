@@ -2,7 +2,7 @@
 For modify many files and folders at once
 
 # MoveSelfDir
-사용 : MoveSelfDir <path> <br>
+사용 : MoveSelfDir [path] <br>
 자신의 폴더명으로 폴더를 생성하고 그 안으로 이동한다. <br>
 폴더명을 랜덤으로 변경하기 전 그 폴더명을 기억하기 위해 사용한다. <br>
 
